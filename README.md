@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+    <img id="capa" width="841" height ="200" src="capa.jpg">
 </p>
 
 # Projeto EBOOK Gerado por I.A.s
